@@ -1,0 +1,12 @@
+# Core
+langchain
+langgraph
+langchain-core
+langchain-google-genai
+
+# Web App
+streamlit
+python-dotenv
+
+# OpenAI fallback (optional)
+openai
