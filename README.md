@@ -81,3 +81,5 @@ Contribution
 Contributions are welcome! Please open an issue or submit a pull request with improvements.
 
 Check it out: https://supportifyweb.streamlit.app/
+
+This project is built for upcoming WeSee Agent Hackathon - Japan
