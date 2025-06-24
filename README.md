@@ -31,6 +31,7 @@ Analyze sentiment (Positive, Neutral, Negative).
 
 Detect critical issues via keywords and sentiment.
 
+
 Retrieval
 Fast keyword intersection-based retrieval selects the top relevant chunks.
 
@@ -83,3 +84,4 @@ Contributions are welcome! Please open an issue or submit a pull request with im
 Check it out: https://supportifyweb.streamlit.app/
 
 This project is built for upcoming WeSee Agent Hackathon - Japan
+Its still need to be updated!
